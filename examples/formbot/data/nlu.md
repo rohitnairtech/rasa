@@ -207,7 +207,7 @@
 - for [three](num_people:3) people
 - just [one](num_people:1) person
 - book for [seven](num_people:7) people
-- 2[num_people] please
+- [2](num_people) please
 - [nine](num_people:9) people
 
 ## intent:thankyou
